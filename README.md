@@ -1,21 +1,7 @@
 # pricing-grid
 
-## Project setup
-```
-npm install
-```
+A responsive pricing grid created to master css and vuejs.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## helpful links:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+* [Live version of the APP](https://flamboyant-pasteur-a1e748.netlify.com/)
